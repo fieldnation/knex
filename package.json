@@ -34,18 +34,18 @@
   "dependencies": {
     "colorette": "1.2.1",
     "commander": "^5.1.0",
-    "debug": "4.1.1",
+    "debug": "4.3.1",
     "esm": "^3.2.25",
     "getopts": "2.2.5",
     "inherits": "~2.0.4",
     "interpret": "^2.2.0",
-    "liftoff": "3.1.0",
+    "liftoff": "4.0.0",
     "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
     "pg-connection-string": "2.3.0",
     "tarn": "^3.0.0",
     "tildify": "2.0.0",
-    "uuid": "^7.0.3",
+    "uuid": "11.1.1",
     "v8flags": "^3.2.0"
   },
   "peerDependencies": {
